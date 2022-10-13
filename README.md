@@ -1,18 +1,16 @@
-<h1 align="left">Hi, I'm Rohan Chavan</h1>
-<h3 align="left">A passionate frontend developer and web designer from India</h3>
+# Hi, I'm Rohan Chavan
+## A passionate Front-end web Developer & Designer from India
 
--   🌱 Currently, I'm pursuing my **B.Tech** in **Information Technology** from ***International Institute of Information Technology (I2IT), Pune***
--   📚 I’m currently learning **ReactJS, Flutter & .NET framework**
--   💞️ I'm interested in **Game development** and **Game design**
+### About me
+- 🎓 Currently I'm pursuing my **B.Tech** in **Information Technology** from **International Institute of Information Technology(I2IT), Pune**
+- 📚 Learning **ReactJS**, **Flutter** & **.NET framework**
+- 🎮 Interested in **Game Design** & **Development**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <li>📞 <strong>+91 9307640173</strong></li>
-  <li>📧 <strong>chavanrohan.1105@gmail.com</strong></li>
-</p>
+### Connect with me
+- 📱 **+91 9307640173**
+- 📧 **chavanrohan.1105@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+### Skills & tools
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> &nbsp;
